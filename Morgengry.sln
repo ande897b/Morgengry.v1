@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Morgengry", "Morgengry\Morgengry.csproj", "{962AE95F-702E-4EDE-986D-7708D1155F50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{023F2016-49A3-4B07-82BD-81E7BCD1652B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{962AE95F-702E-4EDE-986D-7708D1155F50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{962AE95F-702E-4EDE-986D-7708D1155F50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{962AE95F-702E-4EDE-986D-7708D1155F50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{962AE95F-702E-4EDE-986D-7708D1155F50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{023F2016-49A3-4B07-82BD-81E7BCD1652B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{023F2016-49A3-4B07-82BD-81E7BCD1652B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{023F2016-49A3-4B07-82BD-81E7BCD1652B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{023F2016-49A3-4B07-82BD-81E7BCD1652B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76C38276-3984-4287-9F66-80E948630F33}
+	EndGlobalSection
+EndGlobal
